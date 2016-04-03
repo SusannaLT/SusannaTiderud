@@ -1,0 +1,24 @@
+img {
+	width: 200px;
+}
+
+body {
+	background-color: red;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+h2 {
+	color: gold;
+}
+
+aside {
+	background-color: white;
+}
+
+footer {
+	text-align: center;
+}
