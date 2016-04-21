@@ -1,0 +1,275 @@
+/*Header*/
+header {
+	background-color: black;
+}
+.logotype {
+	width: 130px;
+	margin-top: 10px;
+}
+#dropdown {
+ 	float: center;
+ 	margin-bottom: 120px;
+}
+#dropdown li {
+	font-family: copperplate;
+	font-size: 16px;
+	font:bold;
+	color: white;
+ 	float: left;
+ 	list-style: none;
+ 	position: relative;
+ 	height:20px;
+ 	width:120px;
+ 	text-align: center;
+}
+#dropdown li:hover {
+ 	background: white;
+}
+#dropdown li a {
+}
+#dropdown ul {
+ 	text-align: center;
+ 	width: 220px;
+ 	background: white;
+ 	display: none;
+ 	position: absolute;
+ 	z-index: 500;
+}
+#dropdown ul {
+ 	position: absolute;
+}
+#dropdown li:hover ul {
+ 	display: block;
+}
+.textfarglista {
+	color: black;
+}
+.loggain {
+	width: 30px;
+	float: right;
+	margin-right: 10px;
+	margin-top: 5px;	
+}
+.loggaintext {
+	font-family: helvetica;
+	font-size: 10px;
+	margin-top: 10px;
+	color:white;
+	float: right;
+}
+.visaklarna {
+	width: 150px;
+	float: right;
+	margin-right: 10px;
+	margin-top: 30px;
+}
+.kundvagn {
+	width: 30px;
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+.kundvagnstext {
+	font-family: copperplate;
+	font-size: 16px;
+	font:bold;
+	color:white;
+	float: right;
+	margin-top: 10px;
+}
+.sidnav {
+	color: black;
+	font-family: copperplate;
+	font-size: 14px;
+	font:bold;
+}
+.utfyllnad1 {
+	padding-top: 20px;
+}
+a:hover {
+	color: red;
+}
+section {
+	background-color: white;
+}
+.minsidabild {
+	width: 90px;
+	float: left;
+}
+.rubrikminsida {
+	color: black;
+	font-family: copperplate;
+	font-size: 16px;
+	font:bold;
+}
+.formjustering {
+	float: right;
+	clear: both;
+	margin-right: 80px;
+	margin-bottom: 3px;
+}
+.form {
+	margin-top: 5px;
+	font-size: 12px;
+}
+.typsnitt {
+	font-family: helvetica;
+	font-size: 12px;
+}
+.kalkylera {
+	float: right;
+	margin-right: 80px;
+}
+.textminsida {
+	float: left;
+	color: black;
+	font-family: copperplate;
+	font-size: 14px;
+	font:bold;
+}
+.varukorgsrubrik {
+	font-family: copperplate;
+	font-size: 30px;
+	font:bold;
+}
+.varukorgstext {
+	font-family: copperplate;
+	font-size: 20px;
+	font:bold;
+	margin-top: 40px;
+}
+.varukorgsbild {
+	width: 85px;
+	margin-top:0;
+}
+.kassasteg {
+	width: 300px;
+}
+.totalt {
+	float: right;
+	padding-right: 3px;
+}
+.summa {
+	color:red !important;
+}
+.slidetext{
+	font-family: copperplate;
+	font-size: 14px;
+	font:bold;
+	text-align: center;
+}
+.slidestorlek {
+	width: 600px;
+}
+.produktsidasection {
+	width: 430px;
+}
+.textproduktsida {
+	font-family: copperplate;
+	font-size: 16px;
+	font:bold;
+	text-align: center;
+	margin-top: 40px;
+}
+.produkttext {
+	font-family: copperplate;
+	font-size: 16px;
+	font:bold;
+	text-align: center;
+}
+.asidefarg {
+	background-color: white;
+}
+.asidestorlek {
+	width: 130px;
+}
+.asidestorlek2 {
+	width: 100px;
+}
+.kortmarginal {
+	margin-top: 40px;
+}	
+.lastbilmarginal {
+	margin-top: 30px;
+}
+.figcaption1 {
+	font-family: copperplate;
+	font-size: 16px;
+	font:bold;
+	text-align: center;
+}
+.knapparproduktruta {
+	font-family: copperplate;
+	font-size: 14px;
+	font:bold;
+}
+.knapparram {
+	font-family: copperplate;
+	font-size: 14px;
+	font:bold;
+	border-radius: 8px;
+	background: white;
+	border:2px solid black;
+}
+.mellanrumknappar {
+	margin-top: 4px;
+}
+.utfyllnad {
+	padding-bottom: 30px;
+}
+/*Footer*/
+footer {
+	background-color: black;
+	font-family: copperplate;
+	font-size: 14px;
+	font:bold;
+}
+ul {
+	list-style-type: none;	
+}
+
+.textfargfooter {
+	color: white;
+}
+.rubrik {
+	font-size: 16px;
+}
+.socialamedier {
+	width: 220px;
+	margin-left: 50px;
+	margin-top: 60px;
+}
+/*Kundundersökning.html*/
+.rubrikresa {
+	color: black;
+	font-family: copperplate;
+	font-size: 20px;
+	font:bold;
+	margin-top:15px;
+	text-shadow: 4px 5px 3px rgba(0,0,0, 0.5);
+}
+.marginalformular {
+	padding-top: 15px;
+}
+.video {
+	width: 180px;
+	margin-top: 25px;
+}
+.textformular {
+	font-family: helvetica;
+	font-size: 14px;
+}
+.rubrikformular {
+	color: black;
+	font-family: copperplate;
+	font-size: 20px;
+	font:bold;
+}
+.knappmarginal {
+	margin-bottom: 5px;
+}
+.formulartavling {
+
+}
+
+
